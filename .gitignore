@@ -19,5 +19,21 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*.iml
+*.ipr
+.*.swo
+.*.swp
+.arcconfig
+.classpath
+.DS_Store
+.idea
+.pmd
+.project
+.settings
+pom.org.test.xml.bak
+pom.org.test.xml.next
+pom.org.test.xml.versionsBackup
+release.properties
+target/
+logs/
+.mvn/wrapper/maven-wrapper.jar
